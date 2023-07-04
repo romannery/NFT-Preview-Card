@@ -34,6 +34,7 @@ body{
     border-radius: 15px;
     height: 596px;
     padding: 24px;
+    box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.10);
 }
 
 
